@@ -1,0 +1,100 @@
+public:: true
+
+- Nov24 2023 - Dec 12 2023
+- Singapore to Osaka (Nov 24)
+- Tokyo to Singapore (Dec 12)
+- [[Itinerary]]
+	- [[Day1 - Nov24]]
+		- Singapore -> Osaka -> Himeji
+		- Take off 🛫 24th Nov 8.30 AM SGT (+8) from Changi International Airport
+		- Arrival 🛬 24th Nov 3.50 PM JST (+9) at Osaka Kansai International airport
+		- Spend the rest of the Day getting to Himeji from Osaka and rest at Himeji.
+		- TODO Book Stay at Himeji for 24 - 26 Nov (2 nights, 3 days)
+	- [[Day2 - Nov25]]
+		- Explore Himeji
+		- Main attraction: Himeji Castle
+			- ![Himeji_Castle](https://www.japan-guide.com/g21/3501_11.jpg)
+		- Koko-en gardens
+		- Shoshazan Engyoji
+	- [[Day3 - Nov26]]
+		- Explore Hiroshima - Okayama - Miyajima
+			- Atomic Bomb Dome
+			- Okayama Castle + Koreku en (but Kenroku en gardens are most celebrated out of 3. Other one is Kairaku en)
+			- Itsukushima Shrine
+		- Leave to stay the night at Osaka
+	- [[Day4 - Nov27]]
+		- Osaka to Koyasan
+		- Mount Koya (Koyasan)
+	- [[Day4 - Nov28]]
+		- Osaka -> Kyoto
+		- Fushimi Inari Taisha (Senbon Torii)
+		- Kiyomizu-dera
+		- Tokufuji
+		- Harashiyama
+	- [[Day5 - Nov29]]
+		- Osaka -> Kyoto
+		- Arashiyama bamboo forest
+		- Sagano romantic train - can return to Arashiyama through ferry
+		- Kinkaku-ji and Ginkaku-ji
+	- [[Day6- Nov30]]
+		- Osaka -> Nara
+		- Nara Park (Deers)
+		- Kofukuji Temple
+		- Todaiji Temple
+	- [[Day7 - Dec1]]
+		- Chill day in Osaka
+		- Osaka Castle
+		- Sky Umeda building
+		- Abeno Harukas
+		- Shinsekai
+		- Dotonbori
+	- [[Day8 - Dec2]]
+		- Osaka -> Kanazawa
+		- Use luggage storage -> See Kenroku-en (Best Garden in Japan. Hoping to be good for autumn)
+		- Travel to Tokyo
+		- Should stay near Shinjuku or Shibuya
+	- Tokyo and around for the rest of the days. We can switch days around as we see fit
+	- [[Day9 - Dec3]]
+		- Tokyo to Hakone day trip for Fujisan
+		- Drink Amakaze
+		- Moto - Hakone -> See Hakone Jinja shrine (lake tori gate)
+		- Pirate Ship cruise (Lake ashi)
+		- Owakudani (Active volcano - black boiled egg and charcoal ice cream etc)
+	- [[Day10 - Dec4]]
+		- Tokyo to Kawaguchiko
+		- One of Five lakes of Fuji. Take [Fuji excursion train](https://www.jrailpass.com/blog/fuji-excursion-train)
+		- Some of the best views of Mount Fuji
+	- [[Day11 - Dec5]]
+		- WB studios Harry potter the making tour (3-4 hours recommended)
+		- Can rest in the morning and do it a bit late in the evening
+	- [[Day12 - Dec6]]
+		- DisneySea - Only one DisneySea in the world and its in Tokyo.
+		- https://thetravelintern.com/ultimate-tokyo-disneyland-and-disneysea-guide/
+	- [[Day13 - Dec7]]
+		- Ghibli Museum (4 hours recommended)
+		- Can make it a chill day to combine with something
+	- [[Day14 - Dec8]]
+		- Asakusa
+		- Tokyo Skytree
+		- Senso ji temple
+		- Ueno Park (good for Autumn leaves)
+	- [[Day15 - Dec9]]
+		- Akihabara
+			- I will spend whole day here if allowed UwU
+		- Tokyo Imperial Garden
+			- Good for autumn leaves
+		- Koishikawa Korakuen
+			- Another autumn leaves garden
+	- [[Day16 - Dec10]]
+		- Shibuya
+			- Crossing
+			- Hachiko
+		- Harajuku (another Manga area)
+		- Omotesando (Shopping centre)
+		- Yoyogi park (another autumn leaves spot)
+	- [[Day17 - Dec11]]
+		- Shinjuku
+		- Shinjuku Gyoen (autumn leaves)
+		- Metropolitan Govt building
+	- [[Day18 - Dec12]]
+		- Tokyo -> Singapore
