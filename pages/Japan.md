@@ -99,7 +99,28 @@ public:: true
 					- ![Philosopher's path](https://www.japan-guide.com/g18/3906_top.jpg)
 					- ![Philosopher's path autumn](https://media.sharing-kyoto.com/articles/UsE9Y9pciH4XJgGIOyys1JoWwUoMs4ar52gSlnXn.jpeg)
 	- ## [[Day6 - Nov29]]
-		- Kinkaku-ji
+		- ### **Osaka -> Kyoto Day 2**
+		- ### **Arashiyama bamboo forest**
+		- Should target early morning to avoid crowd and return back to Arashiyama for Lunch
+		- The fastest access from Kyoto Station to Arashiyama is provided by the JR Sagano Line (also known as JR Sanin Line included in JRPass). The one way ride to Saga-Arashiyama Station takes 15 minutes and costs 240 yen. From the station it is a 5-10 minute walk to central Arashiyama.
+		- ![](https://www.japan-guide.com/g19/2158_west_1903.gif)
+		- https://www.japan-guide.com/g19/2158_west_1903.gif
+		- The Togetsukyo Bridge is Arashiyama's well known, central landmark. Many small shops, restaurants and other attractions are found nearby, including Tenryuji Temple, Arashiyama's famous bamboo groves and pleasure boats that are available for rent on the river.
+		- Arashiyama becomes most attractive (and busy) around early April and the second half of November when the cherry blossom and fall color seasons usually peak
+		- ### **Sagano romantic train - Hozu River Boat Tour**
+		- The Sagano Scenic Railway (嵯峨野観光鉄道, also known as the Sagano Romantic Train or Sagano Torokko) is a sightseeing train line that runs along the Hozugawa River between Arashiyama and Kameoka. Its charming, old-fashioned trains wind their way through the mountains at a slow pace, taking about 25 minutes to make the seven kilometer journey and giving passengers pleasant views of the scenery as they travel from Arashiyama through the forested ravine and into rural Kameoka.
+		- The train is particularly popular during the autumn color season from mid November to early December when the leaves along the ravine change color.
+		- Tickets can be purchased at Torokko Saga Station or at JR ticket offices in the Kansai Region or online through Klook
+		- Travelers combine the sightseeing train with a Hozugawa River Cruise back to Arashiyama
+		- The boats take about two hours to leisurely make their way down the river and are a relaxing way to see the natural scenery of the largely undeveloped ravine.
+		- Can buy the cruise ticket on Klook as well
+		- ![](https://www.japan-guide.com/g7/torokko_hozugawa_map_01.gif)
+		- https://www.japan-guide.com/g7/torokko_hozugawa_map_01.gif
+		- ### Kinkaku ji (Golden Pavilion)
+		- Need to return from Arashiyama back to Kyoto and then travel towards Kinkaku ji
+		- ![](https://www.japan-guide.com/g18/3908_top.jpg)
+		- https://www.japan-guide.com/g18/3908_top.jpg
+		- Kinkakuji can be accessed from Kyoto Station by direct Kyoto City Bus number 205 in about 40 minutes and for 230 yen. Alternatively, it can be faster and more reliable to take the Karasuma Subway Line to Kitaoji Station (15 minutes, 260 yen) and a taxi (10 minutes, about 1300 yen) or bus (10 minutes, 230 yen, bus numbers 204 or 205) from there to Kinkakuji.
 	- [[Day7- Nov30]]
 		- Osaka -> Nara
 		- Nara Park (Deers)
