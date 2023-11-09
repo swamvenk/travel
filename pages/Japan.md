@@ -132,34 +132,68 @@ public:: true
 			- Multiple Yamatoji rapid trains operate every hour between Osaka (JR Osaka Station) and Nara (JR Nara Station). The one way trip takes 45 minutes, costs 820 yen and is covered by the Japan Rail Pass.
 				- But we need to reach Kintetsu Nara Station for a close walk to the Park
 			- [Guide for Nara Full Day walk](https://www.japan-guide.com/e/e4119_nara_full.html). This is supposed to be 7 hours spent in Nara park but once we enter Nara Park we can explore at our own leisure
+			- ![Nara Walking](../assets/image_1699540514502_0.png)
 			- Main Atrractions
 				- **Kofukuji Temple**
 				- **Todaiji Temple**
 				- **Nara Deers**
 				- **Kasuga Taisha**
-	- [[Day8 - Dec1]]
-		- Chill day in Osaka
-		- Osaka Castle
-		- Sky Umeda building
-		- Abeno Harukas
-		- Shinsekai
-		- Dotonbori
-	- [[Day9 - Dec2]]
-		- Osaka -> Kanazawa
-		- Use luggage storage -> See Kenroku-en (Best Garden in Japan. Hoping to be good for autumn)
-		- Travel to Tokyo
-		- Should stay near Shinjuku or Shibuya
-	- Tokyo and around for the rest of the days. We can switch days around as we see fit
-	- [[Day10 - Dec3]]
-		- Tokyo to Hakone day trip for Fujisan
-		- Drink Amakaze
-		- Moto - Hakone -> See Hakone Jinja shrine (lake tori gate)
-		- Pirate Ship cruise (Lake ashi)
-		- Owakudani (Active volcano - black boiled egg and charcoal ice cream etc)
-	- [[Day11 - Dec4]]
-		- Tokyo to Kawaguchiko
+	- ## **[[Day8 - Dec1]]**
+		- ### **Osaka -> Kanazawa**
+			- We do kanazawa in the middle of 2 walking tours so that we can give ourselves some rest
+			- JR Thunderbird limited express trains provide one or two direct connections per hour between Osaka and Kanazawa. The one way journey takes 2.5 hours and costs 7260 yen for a non-reserved seat or about 7790 yen for a reserved seat. It is fully covered by the Japan Rail Pass.
+				- This is a to-and-fro travel, 2.5 hours each, from Osaka, just to see a garden. So we can consider skipping this altogether
+				- Instead we could spend 2 days in Osaka city and exploring around
+			- ![Kanazawa route](https://www.japan-guide.com/g21/4200_map_2104.gif)
+		- ### **Kenroku-en (Best Garden in Japan)**
+			- There are some JR buses which connect Kanazawa Station with Kenrokuen and the Higashi Chaya District. The buses are covered by the Japan Rail Pass
+			- ![kenroku-en](https://www.japan-guide.com/g19/4200_03.jpg)
+			- In autumn you can see fall colors, which are mainly provided by the cherry and maple trees and usually change colors from around mid November to early December. The orange and red maples are mostly found near Yamazakiyama on the garden's eastern side near the Kodatsuno Gate
+	- ## **[[Day9 - Dec2]]**
+		- Just like Nara we can do **Osaka city walk**
+		- ![Osaka walk](../assets/image_1699541374942_0.png)
+		- [Osaka Full Day itineray](https://www.japan-guide.com/e/e4028_osaka_eclectic.html) covers a 7 hour walking tour around the city covering major attractions
+		- Main attractions
+			- **Osaka Castle**
+			- **Sky Umeda building**
+			- **Abeno Harukas**
+			- **Shinsekai**
+			- **Dotonbori**
+		- We take a train in the evening or night and reach Tokyo to rest
+		- Tokyo and around for the rest of the days. We can switch days around as we see fit
+	- ## **[[Day10 - Dec3]]**
+		- ### **Tokyo to Hakone day trip for Fujisan**
+		- ![Train map Hakone](https://www.japan-guide.com/g8/5206_access_map.gif)
+		- **By Odakyu Railway**
+			- Odakyu Railway operates between Tokyo's Shinjuku Station and Hakone-Yumoto Station. The one way journey by the "Romance Car" limited express takes about 85 minutes and costs 2470 yen (or 2420 yen if using an e-ticket). By slower express trains (kyuko), the journey takes about two hours, requires one transfer at Odawara, but costs only 1270 yen.
+			- Odakyu also offers the Hakone Free Pass, which includes the round trip from Tokyo to Hakone and unlimited use of selected trains, cablecars, ropeways, boats and buses in the Hakone area.
+		- **By JR (Japan Railways)**
+			- With JR trains you can only get as far as Odawara, from where you will have to use non-JR trains or buses into the Hakone area. The above mentioned Hakone Free Pass is also available for use from Odawara Station.
+			- By JR Tokaido Shinkansen you can access Odawara in about half an hour from Tokyo or Shinagawa Station (about 3500 yen one way, fully covered by the Japan Rail Pass). Note that only Kodama trains and selected Hikari trains stop at Odawara Station.
+			- Alternatively, you can access Odawara from Tokyo in about 70-90 minutes by local or rapid trains on the JR Tokaido Main Line (stopping at Tokyo, Shimbashi and Shinagawa Stations) or the JR Shonan Shinjuku Line (stopping at Ikebukuro, Shinjuku and Shibuya Stations) for about 1500 yen one way. These trains are also covered by the Japan Rail Pass.
+		- The municipality of Hakone covers a mountainous region with several small towns, among which Moto-Hakone and Hakone-machi at the shores of Lake Ashi and the hot spring town of Hakone-Yumoto down in the valley, are the region's main transportation hubs.
+		- An efficient network of buses, trains, cablecars, ropeways and sightseeing boats, as well as some attractive, easy-to-use passes (see below) make Hakone a great place to explore by public transportation. A popular way of seeing Hakone is by circling the region by five different means of transportation, also known as the Hakone Round Course.
+		- ![Hakone getting around](https://www.japan-guide.com/g23/5200_map_2303.gif){:height 427, :width 650}
+		- [Day trip from Tokyo to Hakone](https://youtu.be/sQAa7zMFJKE) covers everything we need to do for the trip
+		- ![Simple Hakone getting around](https://www.japan-guide.com/g22/5210_2201.gif)
+		- We can get the [Hakone free pass](https://www.japan-guide.com/e/e2358_008.html) and fully cover this trip from and to Shijiku Tokyo
+		- **Major things to do**
+			- Bus from Hakone-Yumoto to Amasake Chaya to drink Amasake
+			- Walk to Moto - Hakone -> See Hakone Jinja shrine (lake tori gate)
+			- Take Pirate Ship cruise (Lake ashi) to Togendai and then transfer to Ropeway
+			- Ropeway to Owakudani (Active volcano - black boiled egg and charcoal ice cream etc)
+			- Cable car ride to Gora
+			- Train back to Hakone-Yumoto
+	- ## **[[Day11 - Dec4]]**
+		- ### **Tokyo -> Kawaguchiko**
+		- The best views of Mount Fuji can be enjoyed from the lake's northern shores and are particularly breathtaking during the cherry blossom season around mid April and the autumn colors around the first half of November. One of the nicest spots for cherry blossoms is the seaside promenade near the Kawaguchiko Music Forest, while photographers will enjoy the "Momiji Tunnel" for autumn colors, a maple tree covered road section along the lake's northern shore.
 		- One of Five lakes of Fuji. Take [Fuji excursion train](https://www.jrailpass.com/blog/fuji-excursion-train)
-		- Some of the best views of Mount Fuji
+			- The full journey from Shinjuku Station will only take an hour and 50 minutes marking a huge timesaving for visitors. At the moment, 3 trains run daily on both weekdays and Saturdays and holidays.
+			- If you have a Japan Rail Pass you can ride a part of the Fuji Excursion (Shinjuku – Otsuki) without needing an additional ticket. This means that JR Pass holders need to buy a ticket for the ‘Otsuki – Mount Fuji / Fujikyu Highland / Kawaguchiko’ section of the journey
+			- The easiest option to access most sights around Kawaguchiko is to make use of the sightseeing buses. There are three main bus lines: Red, Green, and Blue, all departing from Kawaguchiko Station. You can purchase a one-day ticket for all three lake sightseeing buses for ¥1,200 or a two-day ticket for ¥1,500. There are also passes that include the ropeway and sightseeing boat for ¥2,500. IC cards also work on trains and local buses
+		- Some of the best views of Mount Fuji. Visibility tends to be best in the early mornings (usually before 9am) and in the late afternoons.
+			- ![Chureito Pagoda](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2022/05/chureito-pagoda-fuji-GettyImages-901228728-770x514.jpg)
+		- [Tokyo to Kawaguchiko Day trip Guide](https://tokyocheapo.com/entertainment/tokyo-to-kawaguchiko-day-trip-guide/) covers a lot of things to do
 	- [[Day12 - Dec5]]
 		- WB studios Harry potter the making tour (3-4 hours recommended)
 		- Can rest in the morning and do it a bit late in the evening
