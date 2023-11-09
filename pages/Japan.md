@@ -30,7 +30,6 @@ public:: true
 			- ![Route_map](https://www.japan-guide.com/g9/3500_map_01.gif)
 			- There exists a convenient combination ticket that includes a round trip by bus from Himeji Station to the ropeway station and the ropeway round trip for 1420 yen. It is available at the ticket counter of the Shinki Bus Terminal in front of Himeji Station.
 	- ## [[Day3 - Nov26]]
-	  collapsed:: true
 		- ### **Explore Hiroshima - Okayama - Miyajima**
 			- Himeji -> Hiroshima takes 1hr 15mins in Shinkansen
 				- Can take Sanyo Shinkansen
@@ -55,7 +54,6 @@ public:: true
 			- The last train is around 10.30-11 PM. So we could finish dinner at Himeji and then take the train to Osaka to just sleep for the night
 		- TODO Book stay in Osaka from Nov 26 - Dec 2 (6 nights and 7 days). Preferably near Shin-Osaka or Umeda Stations
 	- ## [[Day4 - Nov27]]
-	  collapsed:: true
 		- ### **Osaka -> Koyasan**
 		- This is not covered in JRPass
 		- Koyasan is most conveniently accessed by Nankai Railway from Osaka's Namba or Shin-Imamiya stations. Take the Nankai Koya Line from either station to the Gokurakubashi terminal station. A few limited express trains operate directly to Gokurakubashi (80 minutes, 1720 yen, every 1-3 hours). Otherwise take an express or rapid express train (100 minutes, 930 yen, every 20-30 minutes), most of which require a transfer at Hashimoto Station along the way.
@@ -161,6 +159,7 @@ public:: true
 			- **Dotonbori**
 		- We take a train in the evening or night and reach Tokyo to rest
 		- Tokyo and around for the rest of the days. We can switch days around as we see fit
+		- TODO Book Stay in Tokyo near Shinjiku or Shibuya areas from Dec 2 - Dec 12 (10 nights, 11 days)
 	- ## **[[Day10 - Dec3]]**
 		- ### **Tokyo to Hakone day trip for Fujisan**
 		- ![Train map Hakone](https://www.japan-guide.com/g8/5206_access_map.gif)
@@ -194,37 +193,53 @@ public:: true
 		- Some of the best views of Mount Fuji. Visibility tends to be best in the early mornings (usually before 9am) and in the late afternoons.
 			- ![Chureito Pagoda](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2022/05/chureito-pagoda-fuji-GettyImages-901228728-770x514.jpg)
 		- [Tokyo to Kawaguchiko Day trip Guide](https://tokyocheapo.com/entertainment/tokyo-to-kawaguchiko-day-trip-guide/) covers a lot of things to do
-	- [[Day12 - Dec5]]
-		- WB studios Harry potter the making tour (3-4 hours recommended)
+	- ## **[[Day12 - Dec5]]**
+		- ### **Warner Bros Studios Harry potter The Making Tour**
+			- (3-4 hours recommended)
+		- ![WB studios Tokyo](https://www.japan-guide.com/g23/3056_01a.jpg)
+		- The Warner Bros Studio Tour Tokyo is two minutes on foot from Toshimaen Station, which is served by the Seibu Toshima Line and the Oedo Subway Line.
+		- **From Shinjuku Station**
+			- Take the Oedo Subway Line from Shinjuku Station and get off at Toshimaen Station (20 minutes, 280 yen one way)
 		- Can rest in the morning and do it a bit late in the evening
-	- [[Day13 - Dec6]]
-		- DisneySea - Only one DisneySea in the world and its in Tokyo.
-		- https://thetravelintern.com/ultimate-tokyo-disneyland-and-disneysea-guide/
-	- [[Day14 - Dec7]]
-		- Ghibli Museum (4 hours recommended)
+		- TODO Book tickets for WB studios
+	- ## **[[Day13 - Dec6]]**
+		- ### **DisneySea**
+			- Only one DisneySea in the world and its in Tokyo.
+			- ![DisneySea](https://www.japan-guide.com/g22/3016_04.jpg)
+			- ![DisneySea Map](https://www.japan-guide.com/g22/3016_sea_map.jpg)
+		- [DisneySea Guide](https://thetravelintern.com/ultimate-tokyo-disneyland-and-disneysea-guide/)
+		- Tokyo Station and Maihama Station are connected by frequent local and rapid trains along the JR Keiyo and JR Musashino Lines. The one way trip takes about 15 minutes, costs 230 yen and is fully covered by the Japan Rail Pass. Note that the JR Keiyo and JR Musashino Lines are about a ten minute walk from the other platforms at Tokyo Station. (Covered by JR Pass)
+		- From Maihama Station, take the Disney Resort Monorail to Tokyo Disney Sea Station (10 minutes, 260 yen). Alternatively, you can walk there in about 20 minutes.
+		- ![Disney World](https://www.japan-guide.com/g22/3016_map_2201.gif)
+		- TODO Book tickets for DisneySea
+	- ## **[[Day14 - Dec7]]**
+		- ### **Ghibli Museum**
+			- 4 hours recommended
+		- ![Ghibli Museum](https://www.japan-guide.com/g23/3041_01.jpg)
+		- The museum can be reached from Mitaka Station on the JR Chuo Line (15 minutes, 230 yen from Shinjuku Station). There are shuttle buses from the station to the museum (210 yen one way, 320 yen roundtrip, children are half price), while a taxi ride costs about 750 yen one way. Alternatively you can walk to the museum in about 20 minutes from Mitaka Station or from Kichijoji Station through Inokashira Park.
 		- Can make it a chill day to combine with something
-	- [[Day15 - Dec8]]
+	- ## **[[Day15 - Dec8]]**
 		- Asakusa
 		- Tokyo Skytree
 		- Senso ji temple
 		- Ueno Park (good for Autumn leaves)
-	- [[Day16 - Dec9]]
+	- ## **[[Day16 - Dec9]]**
 		- Akihabara
 			- I will spend whole day here if allowed UwU
 		- Tokyo Imperial Garden
 			- Good for autumn leaves
 		- Koishikawa Korakuen
 			- Another autumn leaves garden
-	- [[Day17 - Dec10]]
+	- ## **[[Day17 - Dec10]]**
 		- Shibuya
 			- Crossing
 			- Hachiko
 		- Harajuku (another Manga area)
 		- Omotesando (Shopping centre)
 		- Yoyogi park (another autumn leaves spot)
-	- [[Day18 - Dec11]]
+	- ## **[[Day18 - Dec11]]**
 		- Shinjuku
 		- Shinjuku Gyoen (autumn leaves)
 		- Metropolitan Govt building
-	- [[Day19 - Dec12]]
+	- ## **[[Day19 - Dec12]]**
 		- Tokyo -> Singapore
