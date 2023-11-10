@@ -5,7 +5,6 @@ public:: true
 - Tokyo to Singapore (Dec 12)
 - # [[Itinerary]]
 	- ## [[Day1 - Nov24]]
-	  collapsed:: true
 		- ### Singapore -> Osaka -> Himeji
 		- Take off 🛫 24th Nov 8.30 AM SGT (+8) from Changi International Airport
 		- Arrival 🛬 24th Nov 3.50 PM JST (+9) at Osaka Kansai International airport
@@ -13,7 +12,6 @@ public:: true
 		- TODO Include details about the Trains to catch to reach Himeji
 		- TODO Book Stay at Himeji for 24 - 26 Nov (2 nights, 3 days). Near Himeji Station/Himeji Castle would be good as they are close by.
 	- ## [[Day2 - Nov25]]
-	  collapsed:: true
 		- ### **Explore Himeji**
 		- ### **Main attraction: Himeji Castle**
 			- ![Himeji_Castle](https://www.japan-guide.com/g21/3501_11.jpg)
@@ -125,7 +123,7 @@ public:: true
 			- Kinkakuji can be accessed from Kyoto Station by direct Kyoto City Bus number 205 in about 40 minutes and for 230 yen. Alternatively, it can be faster and more reliable to take the Karasuma Subway Line to Kitaoji Station (15 minutes, 260 yen) and a taxi (10 minutes, about 1300 yen) or bus (10 minutes, 230 yen, bus numbers 204 or 205) from there to Kinkakuji.
 	- ## [[Day7- Nov30]]
 		- ### **Osaka -> Nara**
-			- [Nara Park itinerary video](https://youtu.be/Kbz3E1INyVw)
+			- {{video https://youtu.be/Kbz3E1INyVw}}
 			- Exploring Nara also involves walking
 			- Multiple Yamatoji rapid trains operate every hour between Osaka (JR Osaka Station) and Nara (JR Nara Station). The one way trip takes 45 minutes, costs 820 yen and is covered by the Japan Rail Pass.
 				- But we need to reach Kintetsu Nara Station for a close walk to the Park
@@ -173,7 +171,8 @@ public:: true
 		- The municipality of Hakone covers a mountainous region with several small towns, among which Moto-Hakone and Hakone-machi at the shores of Lake Ashi and the hot spring town of Hakone-Yumoto down in the valley, are the region's main transportation hubs.
 		- An efficient network of buses, trains, cablecars, ropeways and sightseeing boats, as well as some attractive, easy-to-use passes (see below) make Hakone a great place to explore by public transportation. A popular way of seeing Hakone is by circling the region by five different means of transportation, also known as the Hakone Round Course.
 		- ![Hakone getting around](https://www.japan-guide.com/g23/5200_map_2303.gif){:height 427, :width 650}
-		- [Day trip from Tokyo to Hakone](https://youtu.be/sQAa7zMFJKE) covers everything we need to do for the trip
+		- {{video https://youtu.be/sQAa7zMFJKE}}
+			- Video covers everything we need to do for the trip
 		- ![Simple Hakone getting around](https://www.japan-guide.com/g22/5210_2201.gif)
 		- We can get the [Hakone free pass](https://www.japan-guide.com/e/e2358_008.html) and fully cover this trip from and to Shijiku Tokyo
 		- **Major things to do**
@@ -219,27 +218,71 @@ public:: true
 		- The museum can be reached from Mitaka Station on the JR Chuo Line (15 minutes, 230 yen from Shinjuku Station). There are shuttle buses from the station to the museum (210 yen one way, 320 yen roundtrip, children are half price), while a taxi ride costs about 750 yen one way. Alternatively you can walk to the museum in about 20 minutes from Mitaka Station or from Kichijoji Station through Inokashira Park.
 		- Can make it a chill day to combine with something
 	- ## **[[Day15 - Dec8]]**
-		- Asakusa
-		- Tokyo Skytree
-		- Senso ji temple
-		- Ueno Park (good for Autumn leaves)
+		- ### **Asakusa**
+			- **From Tokyo Station**
+				- Take the JR Yamanote Line to Kanda Station (2 minutes, 150 yen) and transfer to the Ginza Subway Line for Asakusa (10 minutes, 180 yen).
+			- **From Shinjuku Station**
+				- Take the orange JR Chuo Line to Kanda Station (10 minutes, 180 yen) and transfer to the Ginza Subway Line for Asakusa (10 minutes, 180 yen).
+			- ![Asakusa](https://www.japan-guide.com/g8/2164_north_03.gif)
+			- We can start from Tokyo Skytree and move west to Sensoji and Ueno Park
+		- **Tokyo Skytree**
+			- Same-day tickets can be purchased at the ticket counter on the 4th floor. On busy days (typically when the waiting time would exceed one hour), visitors will be assigned a 30 minute time slot during which they can enter. On very busy days, same-day tickets may sell out
+			- Reservations can be made on the the official website or through Klook for a specific time slot on a specific date and at a discount of a few hundred yen
+			- ![Tokyo Sky Tree](https://www.japan-guide.com/g18/3064_01a.jpg)
+		- **Senso ji temple**
+			- The temple was completed in 645, making it Tokyo's oldest temple.
+			- When approaching the temple, visitors first enter through the Kaminarimon (Thunder Gate), the outer gate of Sensoji Temple and the symbol of Asakusa and the entire city of Tokyo.
+			- ![sensoji temple](https://www.japan-guide.com/g18/3001_01.jpg)
+		- **Ueno Park**
+			- Today Ueno Park is famous for the many museums found on its grounds, especially the Tokyo National Museum, the National Museum for Western Art, the Tokyo Metropolitan Art Museum and the National Science Museum. It is also home to Ueno Zoo, Japan's first zoological garden.
+			- Additionally, Ueno Park is one of Tokyo's most popular and lively cherry blossom spots with more than 1000 cherry trees lining its central pathway. The cherry blossoms are usually in bloom during late March and early April and attract large numbers of hanami parties.
+			- ![Ueno park](https://www.japan-guide.com/g19/3019_map_1911.gif)
+			- ![Ueno park autumn](https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/00/a0000567/img/en/a0000567_parts_5bc95732acf20.jpg?20231024000000&q=80)
 	- ## **[[Day16 - Dec9]]**
-		- Akihabara
+		- ### **Akihabara**
 			- I will spend whole day here if allowed UwU
-		- Tokyo Imperial Garden
-			- Good for autumn leaves
-		- Koishikawa Korakuen
-			- Another autumn leaves garden
+			- Akihabara (秋葉原), also called Akiba after a former local shrine, is a district in central Tokyo that is famous for its many electronics shops and has also gained recognition as the center of Japan's otaku (diehard fan) culture.
+			- Many shops and establishments devoted to anime and manga are dispersed among the electronic stores in the district.
+			- ![Akihabara](https://www.japan-guide.com/g22/3003_map_2206.gif)
+		- ### **Tokyo Imperial Garden**
+			- ![tokyo imperial garden](https://www.japan-guide.com/g18/3018_01.jpg)
+			- ![Tokyo Imperial Garden map](https://www.japan-guide.com/g18/2164_central_1810.gif)
+		- ### **Koishikawa Korakuen**
+			- Koishikawa Korakuen (小石川後楽園, Koishikawa Kōrakuen) is one of Tokyo's oldest and best Japanese gardens.
+			- Like its namesake in Okayama, the garden was named Korakuen after a poem encouraging a ruler to enjoy pleasure only after achieving happiness for his people. Koishikawa is the district in which the garden is located in.
+			- ![koishikawa korakuen](https://www.japan-guide.com/g18/3034_003_02.jpg)
 	- ## **[[Day17 - Dec10]]**
-		- Shibuya
-			- Crossing
+		- ### **Shibuya**
+			- ![Shibuya crossing](https://www.japan-guide.com/g18/3007_01.jpg)
+			- Shibuya's most prominent landmark is the busy intersection in front of the station's Hachiko Exit. The intersection is heavily decorated by neon advertisements and giant video screens and gets flooded by pedestrians each time the lights turn green, making it a popular photo spot.
+				- (Japan's Time's square)
 			- Hachiko
-		- Harajuku (another Manga area)
-		- Omotesando (Shopping centre)
-		- Yoyogi park (another autumn leaves spot)
+				- A statue of a loyal dog named Hachiko. According to a famous story, the dog waited for his master every day in front of Shibuya Station and continued to do so for years even after his master had passed away. It is one of Tokyo's most popular meeting points.
+				- ![Hachiko](https://a3.cdn.japantravel.com/photo/44644-184653/738x491.8798828125!/tokyo-hachiko-statue-in-shibuya-184653.jpg)
+		- ![Shibuya map](https://www.japan-guide.com/g20/2164_map_west_tokyo_2006.gif)
+		- **Harajuku**
+			- The focal point of Harajuku's teenage culture is Takeshita Dori (Takeshita Street) and its side streets, which are lined by many trendy shops, fashion boutiques, used clothes stores, crepe stands and fast food outlets geared towards the fashion and trend-conscious teens.
+		- **Omotesando**
+			- ![Omotesando](https://www.japan-guide.com/g18/3006_04.jpg)
+			- Just south of Takeshita Dori and over twice its length is Omotesando, a broad, tree-lined avenue sometimes referred to as Tokyo's Champs-Elysees. Here you can find famous brand name shops, cafes and restaurants for a more adult clientele.
+		- **Yoyogi park**
+			- It is known for its ginkgo tree forest, which turns intensely golden in autumn (late November to early December).
+			- ![yoyogi park](https://www.japan-guide.com/g18/3034_002_02.jpg)
 	- ## **[[Day18 - Dec11]]**
-		- Shinjuku
-		- Shinjuku Gyoen (autumn leaves)
-		- Metropolitan Govt building
+		- ### **Shinjuku**
+			- Shinjuku Station is the world's busiest railway station, handling more than two million passengers every day.
+			- West of the station is Shinjuku's skyscraper district, home to many of Tokyo's tallest buildings, including several premier hotels and the twin towers of the Metropolitan Government Office, whose observation decks are open to the public for free.
+		- ![Shinjuku](https://www.japan-guide.com/g22/3011_map_2210.gif)
+		- **Metropolitan Govt building**
+			- ⚠️**IMPORTANT NOTICE:**
+			  The North Observation Deck is currently closed until further notice. The South Observation Deck is open to the public.
+			- The Tokyo Metropolitan Government Building (東京都庁, Tōkyō Tochō) in Shinjuku is often visited by tourists for its free observation decks which provide good panoramic views of Tokyo and beyond
+			- It had been the tallest building in Tokyo until it was overtaken by the Midtown Tower in 2007.
+			- ![Metropolitan Govt Building](https://www.japan-guide.com/g18/3011_21.jpg)
+		- **Shinjuku Gyoen**
+			- Shinjuku Gyoen is also nice to visit during autumn when the leaves change. There are a lot of different types of trees that change colors around the park, however the maple trees are particularly beautiful and can be seen in large numbers around the Japanese garden and Momijiyama ("maple mountain") on the park's eastern side. The colors typically appear from mid November to mid December.
+			- ![Shinjuku Gyoen](https://www.japan-guide.com/g18/3034_001_04.jpg)
 	- ## **[[Day19 - Dec12]]**
-		- Tokyo -> Singapore
+		- ### **Tokyo -> Singapore**
+		- Take off 🛫 12th Dec 9.00 AM JST (+9) from Narita International Airport, Tokyo
+		- Arrival 🛬 12th Dec 3.30 PM SGT (+8) at Changi International airport, Singapore
