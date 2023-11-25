@@ -35,6 +35,9 @@ public:: true
 			- ### **Peace Memorial Park**
 				- ![A-Bomb dome](https://www.japan-guide.com/g21/3400_03.jpg)
 				- From Hiroshima Station, take tram line 2 or 6 to the Genbaku-Domu Mae (原爆ドーム前) stop. The ride takes 15 minutes and costs 220 yen one way. Alternatively, the Peace Memorial Park is served by the [Hiroshima Sightseeing Loop Bus](https://www.japan-guide.com/e/e3404.html) (Meipuru-pu).
+					- You can show the
+				- ![Hiroshima Sightseeing Loop Bus Route Map](https://www.chugoku-jrbus.co.jp/teikan/meipurupu/pdf_e/2023_ml_map_en_han.pdf)
+				- ![Hiroshima Sightseeing Loop Bus timetable](https://www.chugoku-jrbus.co.jp/teikan/meipurupu/pdf_e/20230901meipurupu_schedule.pdf)
 			- ### **Itsukushima Shrine**
 				- ![Itsukushima Shrine](https://www.japan-guide.com/g23/3450_01.jpg)
 				- Travel from Hiroshima to Miyajima
@@ -42,9 +45,10 @@ public:: true
 					- From Miyajimaguchi Station, it is a short walk to the ferry pier, from where ferries depart frequently for Miyajima. There are two competing ferry companies operating from this port: JR and Matsudai. Both companies' ferry rides take 10 minutes and both cost 200 yen one way (excluding visitor tax). The Japan Rail Pass is valid on JR ferries.
 				- Both of these can be our morning stuff to see and then we turn back to Okayama on the way. We could do it the other way around as well. Okayama morning and Hiroshima in the evening
 			- ### **Okayama Castle + Koraku en**
-				- but Kenroku en gardens are most celebrated out of 3. Other one is Kairaku en
+				- (but Kenroku en gardens are most celebrated out of 3. Other one is Kairaku en)
 				- Hiroshima to Okayama is around 1 hour in Shinkansen
-				- Okayama Castle is about 1.5 kilometers or a 25-30 minute walk east of Okayama Station. Trams on the Higashiyama Line can be taken to Shiroshita stop (5 minutes, 120 yen, frequent departures) from where the castle keep can be reached in a 10-15 minute walk.
+				- Okayama Castle is about 1.5 kilometers or a 25-30 minute walk east of Okayama Station. Trams on the Higashiyama Line can be taken to Shiroshita stop (5 minutes, 120 yen, frequent departures) from where the castle keep can be reached in a 10-15 minute walk. Can pay using Suica
+					- Can also take Korakuen bus
 				- The Koraku en surrounds the castle
 				- ![Okayama Castle](https://www.japan-guide.com/g19/map_okayama_1901.gif)
 		- Leave to stay the night at Osaka
@@ -104,7 +108,6 @@ public:: true
 			- Should target early morning to avoid crowd and return back to Arashiyama for Lunch
 			- The fastest access from Kyoto Station to Arashiyama is provided by the JR Sagano Line (also known as JR Sanin Line included in JRPass). The one way ride to Saga-Arashiyama Station takes 15 minutes and costs 240 yen. From the station it is a 5-10 minute walk to central Arashiyama.
 			- ![](https://www.japan-guide.com/g19/2158_west_1903.gif)
-			- https://www.japan-guide.com/g19/2158_west_1903.gif
 			- The Togetsukyo Bridge is Arashiyama's well known, central landmark. Many small shops, restaurants and other attractions are found nearby, including Tenryuji Temple, Arashiyama's famous bamboo groves and pleasure boats that are available for rent on the river.
 			- Arashiyama becomes most attractive (and busy) around early April and the second half of November when the cherry blossom and fall color seasons usually peak
 		- ### **Sagano romantic train - Hozu River Boat Tour**
@@ -114,7 +117,6 @@ public:: true
 			- Travelers combine the sightseeing train with a Hozugawa River Cruise back to Arashiyama
 			- The boats take about two hours to leisurely make their way down the river and are a relaxing way to see the natural scenery of the largely undeveloped ravine.
 			- Can buy the cruise ticket on Klook as well
-			- ![](https://www.japan-guide.com/g7/torokko_hozugawa_map_01.gif)
 			- https://www.japan-guide.com/g7/torokko_hozugawa_map_01.gif
 		- ### Kinkaku ji (Golden Pavilion)
 			- Need to return from Arashiyama back to Kyoto and then travel towards Kinkaku ji
@@ -134,7 +136,7 @@ public:: true
 				- **Todaiji Temple**
 				- **Nara Deers**
 				- **Kasuga Taisha**
-	- ## **[[Day8 - Dec1]]**
+	- ## [[Day8 - Dec1]]
 		- ### **Osaka -> Kanazawa**
 			- We do kanazawa in the middle of 2 walking tours so that we can give ourselves some rest
 			- JR Thunderbird limited express trains provide one or two direct connections per hour between Osaka and Kanazawa. The one way journey takes 2.5 hours and costs 7260 yen for a non-reserved seat or about 7790 yen for a reserved seat. It is fully covered by the Japan Rail Pass.
@@ -145,7 +147,7 @@ public:: true
 			- There are some JR buses which connect Kanazawa Station with Kenrokuen and the Higashi Chaya District. The buses are covered by the Japan Rail Pass
 			- ![kenroku-en](https://www.japan-guide.com/g19/4200_03.jpg)
 			- In autumn you can see fall colors, which are mainly provided by the cherry and maple trees and usually change colors from around mid November to early December. The orange and red maples are mostly found near Yamazakiyama on the garden's eastern side near the Kodatsuno Gate
-	- ## **[[Day9 - Dec2]]**
+	- ## [[Day9 - Dec2]]
 		- Just like Nara we can do **Osaka city walk**
 		- ![Osaka walk](../assets/image_1699541374942_0.png)
 		- [Osaka Full Day itineray](https://www.japan-guide.com/e/e4028_osaka_eclectic.html) covers a 7 hour walking tour around the city covering major attractions
@@ -158,7 +160,7 @@ public:: true
 		- We take a train in the evening or night and reach Tokyo to rest
 		- Tokyo and around for the rest of the days. We can switch days around as we see fit
 		- TODO Book Stay in Tokyo near Shinjiku or Shibuya areas from Dec 2 - Dec 12 (10 nights, 11 days)
-	- ## **[[Day10 - Dec3]]**
+	- ## [[Day10 - Dec3]]
 		- ### **Tokyo to Hakone day trip for Fujisan**
 		- ![Train map Hakone](https://www.japan-guide.com/g8/5206_access_map.gif)
 		- **By Odakyu Railway**
@@ -182,7 +184,7 @@ public:: true
 			- Ropeway to Owakudani (Active volcano - black boiled egg and charcoal ice cream etc)
 			- Cable car ride to Gora
 			- Train back to Hakone-Yumoto
-	- ## **[[Day11 - Dec4]]**
+	- ## [[Day11 - Dec4]]
 		- ### **Tokyo -> Kawaguchiko**
 		- The best views of Mount Fuji can be enjoyed from the lake's northern shores and are particularly breathtaking during the cherry blossom season around mid April and the autumn colors around the first half of November. One of the nicest spots for cherry blossoms is the seaside promenade near the Kawaguchiko Music Forest, while photographers will enjoy the "Momiji Tunnel" for autumn colors, a maple tree covered road section along the lake's northern shore.
 		- One of Five lakes of Fuji. Take [Fuji excursion train](https://www.jrailpass.com/blog/fuji-excursion-train)
@@ -192,7 +194,7 @@ public:: true
 		- Some of the best views of Mount Fuji. Visibility tends to be best in the early mornings (usually before 9am) and in the late afternoons.
 			- ![Chureito Pagoda](https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2022/05/chureito-pagoda-fuji-GettyImages-901228728-770x514.jpg)
 		- [Tokyo to Kawaguchiko Day trip Guide](https://tokyocheapo.com/entertainment/tokyo-to-kawaguchiko-day-trip-guide/) covers a lot of things to do
-	- ## **[[Day12 - Dec5]]**
+	- ## [[Day12 - Dec5]]
 		- ### **Warner Bros Studios Harry potter The Making Tour**
 			- (3-4 hours recommended)
 		- ![WB studios Tokyo](https://www.japan-guide.com/g23/3056_01a.jpg)
@@ -201,7 +203,7 @@ public:: true
 			- Take the Oedo Subway Line from Shinjuku Station and get off at Toshimaen Station (20 minutes, 280 yen one way)
 		- Can rest in the morning and do it a bit late in the evening
 		- TODO Book tickets for WB studios
-	- ## **[[Day13 - Dec6]]**
+	- ## [[Day13 - Dec6]]
 		- ### **DisneySea**
 			- Only one DisneySea in the world and its in Tokyo.
 			- ![DisneySea](https://www.japan-guide.com/g22/3016_04.jpg)
@@ -211,13 +213,13 @@ public:: true
 		- From Maihama Station, take the Disney Resort Monorail to Tokyo Disney Sea Station (10 minutes, 260 yen). Alternatively, you can walk there in about 20 minutes.
 		- ![Disney World](https://www.japan-guide.com/g22/3016_map_2201.gif)
 		- TODO Book tickets for DisneySea
-	- ## **[[Day14 - Dec7]]**
+	- ## [[Day14 - Dec7]]
 		- ### **Ghibli Museum**
 			- 4 hours recommended
 		- ![Ghibli Museum](https://www.japan-guide.com/g23/3041_01.jpg)
 		- The museum can be reached from Mitaka Station on the JR Chuo Line (15 minutes, 230 yen from Shinjuku Station). There are shuttle buses from the station to the museum (210 yen one way, 320 yen roundtrip, children are half price), while a taxi ride costs about 750 yen one way. Alternatively you can walk to the museum in about 20 minutes from Mitaka Station or from Kichijoji Station through Inokashira Park.
 		- Can make it a chill day to combine with something
-	- ## **[[Day15 - Dec8]]**
+	- ## [[Day15 - Dec8]]
 		- ### **Asakusa**
 			- **From Tokyo Station**
 				- Take the JR Yamanote Line to Kanda Station (2 minutes, 150 yen) and transfer to the Ginza Subway Line for Asakusa (10 minutes, 180 yen).
@@ -238,7 +240,7 @@ public:: true
 			- Additionally, Ueno Park is one of Tokyo's most popular and lively cherry blossom spots with more than 1000 cherry trees lining its central pathway. The cherry blossoms are usually in bloom during late March and early April and attract large numbers of hanami parties.
 			- ![Ueno park](https://www.japan-guide.com/g19/3019_map_1911.gif)
 			- ![Ueno park autumn](https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/00/a0000567/img/en/a0000567_parts_5bc95732acf20.jpg?20231024000000&q=80)
-	- ## **[[Day16 - Dec9]]**
+	- ## [[Day16 - Dec9]]
 		- ### **Akihabara**
 			- I will spend whole day here if allowed UwU
 			- Akihabara (秋葉原), also called Akiba after a former local shrine, is a district in central Tokyo that is famous for its many electronics shops and has also gained recognition as the center of Japan's otaku (diehard fan) culture.
@@ -251,7 +253,7 @@ public:: true
 			- Koishikawa Korakuen (小石川後楽園, Koishikawa Kōrakuen) is one of Tokyo's oldest and best Japanese gardens.
 			- Like its namesake in Okayama, the garden was named Korakuen after a poem encouraging a ruler to enjoy pleasure only after achieving happiness for his people. Koishikawa is the district in which the garden is located in.
 			- ![koishikawa korakuen](https://www.japan-guide.com/g18/3034_003_02.jpg)
-	- ## **[[Day17 - Dec10]]**
+	- ## [[Day17 - Dec10]]
 		- ### **Shibuya**
 			- ![Shibuya crossing](https://www.japan-guide.com/g18/3007_01.jpg)
 			- Shibuya's most prominent landmark is the busy intersection in front of the station's Hachiko Exit. The intersection is heavily decorated by neon advertisements and giant video screens and gets flooded by pedestrians each time the lights turn green, making it a popular photo spot.
@@ -268,7 +270,7 @@ public:: true
 		- **Yoyogi park**
 			- It is known for its ginkgo tree forest, which turns intensely golden in autumn (late November to early December).
 			- ![yoyogi park](https://www.japan-guide.com/g18/3034_002_02.jpg)
-	- ## **[[Day18 - Dec11]]**
+	- ## [[Day18 - Dec11]]
 		- ### **Shinjuku**
 			- Shinjuku Station is the world's busiest railway station, handling more than two million passengers every day.
 			- West of the station is Shinjuku's skyscraper district, home to many of Tokyo's tallest buildings, including several premier hotels and the twin towers of the Metropolitan Government Office, whose observation decks are open to the public for free.
@@ -282,7 +284,7 @@ public:: true
 		- **Shinjuku Gyoen**
 			- Shinjuku Gyoen is also nice to visit during autumn when the leaves change. There are a lot of different types of trees that change colors around the park, however the maple trees are particularly beautiful and can be seen in large numbers around the Japanese garden and Momijiyama ("maple mountain") on the park's eastern side. The colors typically appear from mid November to mid December.
 			- ![Shinjuku Gyoen](https://www.japan-guide.com/g18/3034_001_04.jpg)
-	- ## **[[Day19 - Dec12]]**
+	- ## [[Day19 - Dec12]]
 		- ### **Tokyo -> Singapore**
 		- Take off 🛫 12th Dec 9.00 AM JST (+9) from Narita International Airport, Tokyo
 		- Arrival 🛬 12th Dec 3.30 PM SGT (+8) at Changi International airport, Singapore
